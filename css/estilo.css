@@ -1,0 +1,33 @@
+.titulo1 {
+  font-size: 20px; }
+
+.grosos {
+  width: 10%;
+  height: 10%; }
+
+.colorFondo {
+  background-color: #856464; }
+
+.tituloBlanco {
+  color: whitesmoke; }
+
+.textoLargo {
+  font-size: 14px;
+  padding: 30px;
+  color: whitesmoke; }
+
+.intropecho {
+  font-size: 20px;
+  padding: 60px;
+  margin: 40px; }
+
+.bordeimagen {
+  border: black;
+  border: solid; }
+
+.boton {
+  position: fixed;
+  transform: translate(0, 150%); }
+
+.video {
+  justify-content: center; }
